@@ -1,0 +1,9 @@
+venv
+__pycache__/
+.vscode/
+.DS_Store
+.env*
+.idea
+app/depot
+# Ignore backup files created by editors
+*~
